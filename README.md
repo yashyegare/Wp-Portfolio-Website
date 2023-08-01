@@ -1,3 +1,3 @@
 # wp-portfolio
 
-My Personal Wp Website
+My Personal Wordpress Website
